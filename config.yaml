@@ -2,7 +2,7 @@ baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
 title: "Andy's Blog"
-theme: "Andy Wan"
+theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/

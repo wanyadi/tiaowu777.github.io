@@ -3,7 +3,7 @@ experiences:
 - designation: Software Engineer
   company:
     name: Example Co.
-    url: "https://www.example.com"
+    url: "https://blog.wanyadi.cn"
     location: Dhaka Branch
     # company overview
     overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
