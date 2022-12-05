@@ -1,12 +1,12 @@
 section:
-  name: About # Title of section (default: "")
+  name: 关于 # Title of section (default: "")
   id: about # url id/slug of section *Required*
   enable: true # Boolean to determine if this section is enabled (default: false)
   weight: 1 # Order to display section in (default: alphabetical followed by weight)
   showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
   template: sections/about.html # allows you to point to a specific template.
   
-summary: 'I have solid work experience, comprehensive as well as learning ability and like to specialize.'
+summary: '本人有扎实的工作经验，综合以及学习能力强，喜欢专研.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

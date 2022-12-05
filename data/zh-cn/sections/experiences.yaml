@@ -1,0 +1,66 @@
+section:
+  name: 经验
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: 山东瑞波供应链管理有限公司
+    url: "https://admin.shendugyl.com"
+    location: ShanDong - China
+    # company overview
+    overview: 瑞波供应链是一家供应链整体解决方案提供商，擅长优化存在严重问题的、复杂的仓储服务或供应链服务，集仓储管理外包、供应链方案咨询、配套软硬件研发于一体。
+  positions:
+  - designation: DevOps Engineer
+    start: Oct 2019
+    end: Oct 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+       - Jumpserver+Ansible 批量维护 70+台服务器，持续集成。
+       - Confluence、jire、gitlab 等项目相关软件的持续维护和破解更新。
+       - 熟练配置维护：ELK、ZK、Rocketmq、Nacos 和 Otter 等中间件、工具。
+       - Grafana 结合 zabbix、prometheus 监控服务器和 Java、Nacos、redis 等，实现及时绘图、报警。
+       - 自行编译 Docker-slave 结合主 Jenkins 分担负载和及时销毁容器编译环境。
+       - Rancher 结合 Jenkins 和 Ansible 快速部署和自动测试环境持续化流水线，已应用至生产。
+       - 了解并申请公司关于淘宝、京东等电商 ERP 系统的应用申请流程和体系。
+
+- company:
+    name: 武汉斗鱼网络科技有限公司
+    url: "https://www.douyu.com"
+    location: Wuhan - China
+    overview: 武汉斗鱼网络科技有限公司旗下的斗鱼是一家致力于为所有人带来欢乐的弹幕式直播分享网站，是国内直播分享网站中的佼佼者。
+  positions:
+  - designation: Senior Operations Engineer
+    start: March 2014
+    end: May 2019
+    responsibilities:
+        - AD 域和思杰云桌面的负责（相关监控和日志的搭建和维护 Graylog 和 Docker 环境）;
+        - 前期的 Samba 同步和迁移，DFS 分布式存储的架构规划、部署和维护；
+        - 银联 IDC 机房管理和维护，上架规划、初始化和运维；
+        - CDN 备选方案的推拉流测试，以及博睿、基调的报告配置以及使用；
+        - 负责公司域控系统的上线和实施负责，以及域控的文档的输出；
+        - 线上弹幕和网络问题的即时反馈和处理，Zabbix 监控 和线上弹幕等环境
+
+- company:
+    name: 7thonline - China
+    url: "https://www.7thonline.com"
+    location: Intern Land
+    location: China
+    overview: 7thonline中国
+  positions:
+  - designation: Operations Engineer
+    start: May 2012
+    end: Jan 2014
+    responsibilities:
+        - 能熟练配置 lamp,网站环境，熟悉 linux 环境，shell，python，等脚本。
+        - 支持开发和测试人员软件以及系统环境的配置.(AD 和内部 outlook 以及 JAVA oracle 环境等)
+        - 配置测试环境(win2008 apache/tomcat 环境)-- 个人 Xenserver 虚拟项目环境
+        - 内部网络、AD 和 Exchange 服务器以及代理、FTP 服务器的维护和 Symantec 备份。
+        - 与纽约同事沟通处理 SVN 和内部环境的紧急情况。

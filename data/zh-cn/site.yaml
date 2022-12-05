@@ -1,0 +1,27 @@
+# Copyright Notice
+copyright: © 2022 Copyright.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "此主题已获得 MIT 许可。因此，您可以将其用于非商业、商业或个人用途。您可以在未经主题作者许可的情况下修改或分发主题。但是，主题作者不会对主题的任何问题提供任何保证或承担任何责任。"
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Andy的个人作品集和博客。
+
+# specify the list of custom menus that you want to show in the top navbar.
+# they will be separated by a divider from the main menus.
+customMenus:
+- name: 文档
+  url: https://wanyadi.github.io/posts/
+  # specify whether to hide the menu item from top navbar or not.
+  #hideFromNavbar: false
+  # specify whether to show the menu item in footer or not.
+  # if you set it to true, make sure you have set `footer.navigation.customMenus: true` in your config.yaml
+  #showOnFooter: false
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Andy的博客
+  type: website
+  description: Andy的个人作品集和博客。
+  image: images/author/john.png
+  url: https://wanyadi.github.io

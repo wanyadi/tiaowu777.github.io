@@ -1,6 +1,6 @@
 # section information
 section:
-  name: skills
+  name: 技能
   id: skills
   enable: true
   weight: 2
@@ -13,26 +13,26 @@ section:
 skills:
 - name: Kubernetes
   logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "熟练使用K8s部署Spring和node等微服务架构程序，熟悉EKS、AKS、Rancher等常见编排工具。"
   url: "https://kubernetes.io/"
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "能熟练使用大多数主要的云计算平台，如GCP、AWS、Azure等。"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "将大部分程序写成docker容器,对多阶段、多架构的构建过程有经验。"
   url: "https://www.docker.com/"
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  summary: "能够熟练配置Prometheus、Granfana以及Loki和ELFK开源日志监控框架体系。"
   url: "https://prometheus.io/"
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "能够使用Shell熟练操作主流的Linux操作系统，如：Centos、Ubuntu等。"
 
 - name: Git
   logo: /images/sections/skills/git.png
